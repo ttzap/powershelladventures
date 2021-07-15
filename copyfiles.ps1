@@ -1,3 +1,5 @@
+#Copy files from one server to another, apply modify permissions to folder owner 
+
 $userList = @('usera','userb')
 $rackSpaceU = "\\server-1\u-users$\"
 $destinationAzure = "E:\USERS\"
