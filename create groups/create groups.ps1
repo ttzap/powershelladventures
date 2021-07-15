@@ -2,7 +2,7 @@
 
 $siteName = "CFV-"
 $csv = Import-Csv -Path "c:\scripts\groups.csv"
-$locationOU = "OU="+$siteName+"Groups,OU=CFV,OU=MNA-Sites,DC=MNA,DC=local"
+$locationOU = "OU="+$siteName+"Groups,OU=CCC,OU=AAA-Sites,DC=BBB,DC=local"
 
 ForEach ($item In $csv) { 
         $formatted_group = $siteName+$item.GroupName
