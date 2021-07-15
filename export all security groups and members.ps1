@@ -1,4 +1,4 @@
-﻿$Groups = (Get-AdGroup -filter * -SearchBase "OU=MNA-Sites,DC=MNA,DC=local" | Where {$_.name -like "**"} | select name -expandproperty name)
+﻿$Groups = (Get-AdGroup -filter * -SearchBase "OU=AAA-Sites,DC=BBB,DC=local" | Where {$_.name -like "**"} | select name -expandproperty name)
 
 
 $Table = @()
