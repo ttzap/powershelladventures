@@ -1,0 +1,26 @@
+GroupName,GroupCategory,GroupScope
+Nurses,Security,Global
+Staff,Security,Global
+CHEF-Chef,Security,Global
+CLIN DIR-Clinical Director,Security,Global
+RC-Recovery Coach,Security,Global
+NURSRN-Registered Nurse,Security,Global
+AST CLND-Assistant Clinical Director,Security,Global
+ASTNMGRN-Assistant Nurse Manager LVN,Security,Global
+DANTHP-Dance Therapist,Security,Global
+DIETCN-Dietitian,Security,Global
+FAMILY-Family Therapist,Security,Global
+GP THRP-Group Therapist,Security,Global
+HOUSEKPR-Housekeeper,Security,Global
+Practicum Student Intern,Security,Global
+LEADRC-Lead Recovery Coach,Security,Global
+MOVINS-Movement Instructor,Security,Global
+NURSE-Nurse,Security,Global
+NRSMANRN-Nurse Manager RN,Security,Global
+NP-Nurse Practitioner,Security,Global
+MD,Security,Global
+P THERP-Primary Therapist,Security,Global
+PRGMGR-Program Manager,Security,Global
+PSYCH-Psychiatrist,Security,Global
+TEACHER-Certified Teacher,Security,Global
+YOGINS-Yoga Instructor,Security,Global
